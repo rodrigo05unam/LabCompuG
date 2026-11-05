@@ -6,7 +6,7 @@
     <Filter Include="Archivos de origen\Shader"><UniqueIdentifier>{dfab8062-c477-5098-965d-e4e949a451f5}</UniqueIdentifier></Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main_Modelado.cpp"><Filter>Archivos de origen</Filter></ClCompile>
+    <ClCompile Include="Modelado_Jerarquico.cpp"><Filter>Archivos de origen</Filter></ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Shader.h"><Filter>Archivos de encabezado</Filter></ClInclude>
