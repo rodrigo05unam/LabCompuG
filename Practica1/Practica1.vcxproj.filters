@@ -6,7 +6,7 @@
     <Filter Include="Archivos de origen\Shader"><UniqueIdentifier>{dfab8062-c477-5098-965d-e4e949a451f5}</UniqueIdentifier></Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Carga de Modelos.cpp"><Filter>Archivos de origen</Filter></ClCompile>
+    <ClCompile Include="Texturizado.cpp"><Filter>Archivos de origen</Filter></ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Camera.h"><Filter>Archivos de encabezado</Filter></ClInclude>
@@ -18,6 +18,8 @@
   <ItemGroup>
     <None Include="Shader\core.frag"><Filter>Archivos de origen\Shader</Filter></None>
     <None Include="Shader\core.vs"><Filter>Archivos de origen\Shader</Filter></None>
+    <None Include="Shader\lamp.frag"><Filter>Archivos de origen\Shader</Filter></None>
+    <None Include="Shader\lamp.vs"><Filter>Archivos de origen\Shader</Filter></None>
     <None Include="Shader\modelLoading.frag"><Filter>Archivos de origen\Shader</Filter></None>
     <None Include="Shader\modelLoading.vs"><Filter>Archivos de origen\Shader</Filter></None>
   </ItemGroup>
